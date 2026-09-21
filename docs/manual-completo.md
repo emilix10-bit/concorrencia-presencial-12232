@@ -9,9 +9,11 @@
   </button>
 </div>
 
-# MANUAL COMPLETO DE DIVULGAÇÃO DE CONTRATAÇÃO
+<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: AGENTES DE CONTRATAÇÃO</p>
 
-Este documento contém todas as etapas para a divulgação de uma contratação no sistema Compras.gov.br, desde o acesso inicial até a publicação final do processo.
+# Procedimentos para Concorrências Presenciais (Lei nº 12.232/2010) no Novo DC
+
+Este tutorial orienta os Agentes de Contratação no passo a passo para a realização de concorrências presenciais fundamentadas na Lei nº 12.232/2010 no módulo Novo Divulgação de Compras (Novo DC).
 
 ---
 
