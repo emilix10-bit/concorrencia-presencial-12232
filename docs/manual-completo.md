@@ -213,7 +213,7 @@ Você poderá formar grupos de itens para sua contratação. Para isso, siga os 
 
 ![Tela 59](Imagens/59-anexos.png)
 
-**Passo 50:** Selecione o arquivo e clique em **Anexar**.
+**Passo 50:** Selecione el arquivo e clique em **Anexar**.
 
 ![Tela 60](Imagens/60-anexos.png)
 
