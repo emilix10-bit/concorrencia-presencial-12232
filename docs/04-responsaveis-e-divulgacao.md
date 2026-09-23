@@ -74,7 +74,7 @@ Sua contratação poderá receber propostas conforme as datas que foram colocada
 **Passo 04:** Inclua:
 
 * CNPJ ou CPF do fornecedor;
-* marca, fabricante, modelo, valor e quantidade do item.
+* modelo, valor e quantidade do item.
 
 ![Tela 75](Imagens/75-incluir-vencedor.png)
 
