@@ -26,7 +26,6 @@ Você pode acessar as etapas específicas que quer consultar ou ver o manual com
   * [2. Dados e inclusão de itens](02-dados-e-inclusao-de-itens.md)
   * [3. Configuração de itens, grupos e anexos](03-configuracao-grupos-e-anexos.md)
   * [4. Responsáveis e divulgação](04-responsaveis-e-divulgacao.md)
-  * [5. Incluir e divulgar resultados](05-resultados-da-licitacao.md)
 
 * **Página única:**
   * [🖨️ Todo o manual em uma tela (Versão para Impressão)](manual-completo.md)
