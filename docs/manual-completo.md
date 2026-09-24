@@ -9,6 +9,14 @@
   </button>
 </div>
 
+<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: AGENTES DE CONTRATAÇÃO</p>
+
+# Procedimentos para Concorrências Presenciais (Lei nº 12.232/2010) no Novo DC
+
+Este manual orienta os Agentes de Contratação no passo a passo para a realização de concorrências presenciais fundamentadas na Lei nº 12.232/2010 no módulo Novo Divulgação de Compras (Novo DC).
+
+---
+
 # PRIMEIRA ETAPA: CRIAR A CONTRATAÇÃO
 
 As licitações presenciais fundamentadas na Lei nº 12.232/2010 poderão ser realizadas partindo de:
